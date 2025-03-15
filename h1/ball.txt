@@ -1,0 +1,9 @@
+başla
+topun hızını giriş al
+hesaplama topun hızından yükseklik değişkenini bulma = a
+döngü içerisine al
+her döngüde a/2 ve i++
+a/2==0 ise breake
+print i
+
+//zenon felsefesi asla 0 olup breake etmiycek
