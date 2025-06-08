@@ -1,0 +1,3 @@
+Hafta 4.1 - Bash ile Ağ İşlemleri (Ekstra)
+
+Bu hafta ekstra bir bash script çalışması yaptım. Kullanıcıdan alınan bir domain adıyla `ping` işlemi yapan küçük bir uygulama geliştirdim. Bu uygulama terminal ile etkileşim kurarak temel ağ kontrolü sağlıyor.

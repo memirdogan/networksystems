@@ -1,0 +1,3 @@
+Hafta 15 - Çoklu İş Parçacığı (Multithreading)
+
+Bu hafta `threading` modülü kullanarak Python'da aynı anda çalışan çoklu görevler oluşturduk. İlk örnekte 5 farklı iş parçacığı çalıştırıldı. İkinci örnekte matris benzeri yapıyla çift döngülü iş parçacıkları oluşturularak paralel işlem denemesi yapıldı.

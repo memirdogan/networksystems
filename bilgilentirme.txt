@@ -1,0 +1,6 @@
+Github repository link: "https://github.com/memirdogan/networksystems"
+Github user: "https://github.com/memirdogan/"
+
+Her hafta yapılan çalışmalar ayrı ayrı klasörlendi oku.txt içerisine ne öğrenildi ve neler yapıldı yazıldı.
+log.txt içerisinde github logları export edilerek girişleri yapıldı. 
+Loglar export edilirken log-exporter.sh bash scripti kullanıldı böylece tek bir sade format ile loglar elde edilmiş oldu.

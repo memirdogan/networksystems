@@ -1,0 +1,2 @@
+dec7ee0 - Emir Doğan - 2025-05-17 : rename file
+19c23f7 - Emir Doğan - 2025-05-17 : hafta 13 user agent code

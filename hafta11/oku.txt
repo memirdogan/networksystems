@@ -1,0 +1,3 @@
+Hafta 11 - Dijkstra Algoritması
+
+Bu hafta Dijkstra'nın en kısa yol algoritmasını sınıf temelli bir Python yapısı içinde uyguladık. Verilen örnek graf yapısı üzerinden başlangıç noktasından diğer tüm düğümlere olan uzaklıklar hesaplandı ve terminal çıktısı ile gösterildi.

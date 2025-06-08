@@ -1,0 +1,3 @@
+Hafta 11 Ekstra - Dijkstra Algoritması Uygulama Sorusu
+
+Bu hafta Dijkstra algoritmasını öğrendikten sonra ekstra bir grafik üzerinde uygulama yaparak bir sorunun cevabını hesapladım. Bu çalışma hocanın verdiği özel bir örneğe yanıt üretmek içindi ve ekstra puan amaçlıydı.

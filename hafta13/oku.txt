@@ -1,0 +1,3 @@
+Hafta 13 - HTTP İsteklerinde User-Agent Spoofing
+
+Bu hafta, Python'da urllib modülünü kullanarak HTTP başlıklarını değiştirme (spoofing) konusuna odaklandık. `Mozilla/5.0` gibi tarayıcı kimlikleri kullanılarak web isteklerinin nasıl manipüle edilebileceği denendi.

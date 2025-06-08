@@ -1,0 +1,3 @@
+Hafta 1 - Temel Mantık Algoritmaları
+
+Bu hafta giriş seviyesinde algoritma yazımı üzerinde durduk. Topun hızı ve yerçekimi hesaplamaları üzerinden döngülerle koşullu yapılar yazdık. Ayrıca bash script ile kullanıcıdan yaş alma gibi temel terminal girişleri de denendi.
